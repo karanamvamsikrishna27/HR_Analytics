@@ -35,6 +35,3 @@ Download the `.pbix` file from this repository and open it using Power BI Deskto
 
 ## Author
 **KARANAM VAMSI KRISHNA**
-
-## Disclaimer
-This project is for educational and analytical purposes. Do not share confidential employee information or database credentials publicly.
